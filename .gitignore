@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual environment
+venv/
+env/
+
+# models (too large for github)
+*.pt
+*.pth
+*.onnx
+
+# outputs
+outputs/
+alerts/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
